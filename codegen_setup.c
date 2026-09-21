@@ -16,7 +16,7 @@ static const PsxrecompCodegenHostConfig kCodegenConfig = {
     .gen_marker_relpath = "generated/SLUS_010.66_dispatch.c",
     .build_dir_name = "build-release",
     .cmake_target = "psx-runtime",
-    .exe_basename = "Tony_Hawks_Pro_Skater_2__Recompiled",
+    .exe_basename = "Tony_Hawks_Pro_Skater_2_Recompiled",
     .prepare_note =
         "Uses your legal disc with the local psxrecomp SDK to generate "
         "BIOS + game C, then cmake --build. The product lives under "
